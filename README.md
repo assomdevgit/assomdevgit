@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p>
-
-</p>
 -->
 
 ### 💪 Skills
