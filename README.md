@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @assomdevgit
+### 👋 Hi, I’m @assomdevgit
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -21,14 +21,21 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 -->
+<br/>
+<br/>
+<br/>
 
-### 💪 Skills
+### 💪 Learning Skills
 #### Platforms & Languages
 <p>
-  <!--<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>-->
+  <img src="https://img.shields.io/badge/Python-blue"/>
+  <img src="https://img.shields.io/badge/JAVA-red">
+  <img src="https://img.shields.io/badge/JSP-red">
 </p>
+<!--
 <p>
-  <!--<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
+-->
