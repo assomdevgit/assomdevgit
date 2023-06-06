@@ -11,7 +11,7 @@
 assomdevgit/assomdevgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-->
+<!--
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -25,8 +25,6 @@ You can click the Preview link to take a look at your changes.
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/JAVA?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JSP?style=flat-square&logo=React&logoColor=black"/>
   <!--<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>-->
 </p>
 <p>
